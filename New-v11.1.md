@@ -1,10 +1,10 @@
 {
-"Title": "فیلترشکن پولی رو رایگان استفاده کن 😱🔥",
-"Description": "❌ فیلترشکن پولی v2net به ارزش ماهانه 1 میلیون مود شده و میتونی رایگان استفاده کنی ، بیا تو کانال تلگرام دانلود کن بدو تا جا نمونی 👇🏻",
-"Link": "tg://join?invite=hLRBxkwYzuw0OTM0",
-"ColorWave": "#673AB7",
-"Color": "#673AB7",
-"ColorWaveTwo": "#7E57C2",
+"Title": "حمایت از اسپانسر برنامه 🙏🏻",
+"Description": "سلام ، لطفا برای جلوگیری از قطع شدن فیلترشکن حتما عضو کانال تلگرامی اسپانسر ما شوید در غیر این صورت اتصال شما قطع میشود ❤️",
+"Link": "tg://join?invite=tDNJ_csihxViMjlk",
+"ColorWave": "#7C4DFF",
+"Color": "#FF9100",
+"ColorWaveTwo": "#651FFF",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
@@ -15,9 +15,9 @@
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "false",
-"MessageID": "299736100381",
-"ShowTime": "4",
-"Button": " دانلود و عضویت اجباری ",
+"MessageID": "855585",
+"ShowTime": "2",
+"Button": " عضویت در کانال تلگرام ",
 "ButtonCancell": "  ",
 "Closure": "true",
 "Show": "on"
